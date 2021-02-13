@@ -1,3 +1,8 @@
 module github.com/imyourmanzi/hkcomputer
 
 go 1.15
+
+require (
+	github.com/brutella/hc v1.2.3
+	github.com/sirupsen/logrus v1.7.0
+)
